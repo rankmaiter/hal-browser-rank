@@ -28,7 +28,7 @@ http://stateless.co/hal_specification.html[http://stateless.co/hal_specification
 
 == Customizing the POST form
 
-By default, the HAL Browser can't assume there is any metadata. When you click on the non-GET request button (to create a new resource), the user must enter the JSON document to submit. If your service includes metadata you can access, pack11fyinformationwascchang, it's possible to plugin a custom view that makes use of it.
+By default, the HAL Browser can't assume there is any metadata. When you click on the non-GET request button (to create a new resource), the user must enter the JSON document to submit. If your service includes metadata you can access, , it's possible to plugin a custom view that makes use of it.
 
 . Define your custom view.
 +
